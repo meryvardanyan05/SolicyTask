@@ -1,0 +1,10 @@
+.Main {
+	height: 100%;
+	padding-top: 20px;
+	/* border: 1px solid gray; */
+	display: grid;
+	grid-template-columns: auto auto;
+	justify-content: center;
+	gap: 30px;
+	overflow-y: auto;
+}
